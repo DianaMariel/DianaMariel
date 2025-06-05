@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Esta es mi experiencia en la programación
+
 <!--
 **DianaMariel/DianaMariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
