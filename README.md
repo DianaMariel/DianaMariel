@@ -4,6 +4,7 @@ Esta es mi experiencia en la programación
 
 Herrameintas para personalizarlo: 
 GitHub Profile README Generator
+Revisa uno de los repositorios en estrellas para actualizar esto 
 
 <!--
 **DianaMariel/DianaMariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
