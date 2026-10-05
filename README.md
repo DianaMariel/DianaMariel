@@ -1,22 +1,12 @@
-## Hi there 👋
+# Hola, soy Diana Mariel 👋
 
-Esta es mi experiencia en la programación
+Ingeniera en Software (UAQ). Interesada en datos, ciberseguridad y tecnología para el bien social.
 
-Herrameintas para personalizarlo: 
-GitHub Profile README Generator
-Revisa uno de los repositorios en estrellas para actualizar esto 
+## Habilidades
+- Python (básico-intermedio)
+- SQL (intermedio)
+- JavaScript/React
+- Inglés avanzado (C1)
 
-<!--
-**DianaMariel/DianaMariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+- [llantera-sql-analysis]: Base de datos SQLite para gestión de ventas con consultas analíticas (JOIN, WHERE, ORDER BY, GROUP BY).
